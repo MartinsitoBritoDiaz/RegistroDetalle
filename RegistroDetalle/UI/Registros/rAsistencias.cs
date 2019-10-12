@@ -261,7 +261,7 @@ namespace RegistroDetalle.UI.Registros
             }
             else
             {
-                MessageBox.Show("Asistencia no entrada");
+                MessageBox.Show("Asistencia no encontrada");
             }
         }
 
